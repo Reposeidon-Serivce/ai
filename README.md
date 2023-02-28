@@ -1,2 +1,2 @@
 # ai
-this repository for ai model
+ai model source code
